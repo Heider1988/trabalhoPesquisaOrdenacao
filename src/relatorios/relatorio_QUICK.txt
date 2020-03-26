@@ -1,0 +1,121 @@
+Tempo do 1º loop do arquivo cliente10000alea.txt: 3.0 segundos.
+Tempo do 2º loop do arquivo cliente10000alea.txt: 2.0 segundos.
+Tempo do 3º loop do arquivo cliente10000alea.txt: 2.0 segundos.
+Tempo do 4º loop do arquivo cliente10000alea.txt: 2.0 segundos.
+Tempo do 5º loop do arquivo cliente10000alea.txt: 2.0 segundos.
+
+Tempo médio para o arquivo cliente10000alea.txt rodando 5 vezes, é: 2.2 segundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente10000inv.txt: 2.0 segundos.
+Tempo do 2º loop do arquivo cliente10000inv.txt: 2.0 segundos.
+Tempo do 3º loop do arquivo cliente10000inv.txt: 2.0 segundos.
+Tempo do 4º loop do arquivo cliente10000inv.txt: 2.0 segundos.
+Tempo do 5º loop do arquivo cliente10000inv.txt: 2.0 segundos.
+
+Tempo médio para o arquivo cliente10000inv.txt rodando 5 vezes, é: 2.0 segundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente10000ord.txt: 3.0 segundos.
+Tempo do 2º loop do arquivo cliente10000ord.txt: 2.0 segundos.
+Tempo do 3º loop do arquivo cliente10000ord.txt: 2.0 segundos.
+Tempo do 4º loop do arquivo cliente10000ord.txt: 3.0 segundos.
+Tempo do 5º loop do arquivo cliente10000ord.txt: 2.0 segundos.
+
+Tempo médio para o arquivo cliente10000ord.txt rodando 5 vezes, é: 2.4 segundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente1000alea.txt: 6.00008E7 Nanosegundos.
+Tempo do 2º loop do arquivo cliente1000alea.txt: 6.3E7 Nanosegundos.
+Tempo do 3º loop do arquivo cliente1000alea.txt: 7.09987E7 Nanosegundos.
+Tempo do 4º loop do arquivo cliente1000alea.txt: 6.50008E7 Nanosegundos.
+Tempo do 5º loop do arquivo cliente1000alea.txt: 6.30005E7 Nanosegundos.
+
+Tempo médio para o arquivo cliente1000alea.txt rodando 5 vezes, é: 6.440016E7 Nanosegundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente1000inv.txt: 6.39987E7 Nanosegundos.
+Tempo do 2º loop do arquivo cliente1000inv.txt: 6.20061E7 Nanosegundos.
+Tempo do 3º loop do arquivo cliente1000inv.txt: 6.9996E7 Nanosegundos.
+Tempo do 4º loop do arquivo cliente1000inv.txt: 5.80045E7 Nanosegundos.
+Tempo do 5º loop do arquivo cliente1000inv.txt: 5.99955E7 Nanosegundos.
+
+Tempo médio para o arquivo cliente1000inv.txt rodando 5 vezes, é: 6.280016E7 Nanosegundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente1000ord.txt: 5.8053E7 Nanosegundos.
+Tempo do 2º loop do arquivo cliente1000ord.txt: 6.49465E7 Nanosegundos.
+Tempo do 3º loop do arquivo cliente1000ord.txt: 5.70003E7 Nanosegundos.
+Tempo do 4º loop do arquivo cliente1000ord.txt: 6.40005E7 Nanosegundos.
+Tempo do 5º loop do arquivo cliente1000ord.txt: 6.09996E7 Nanosegundos.
+
+Tempo médio para o arquivo cliente1000ord.txt rodando 5 vezes, é: 6.099998E7 Nanosegundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente50000alea.txt: 89.0 segundos.
+Tempo do 2º loop do arquivo cliente50000alea.txt: 90.0 segundos.
+Tempo do 3º loop do arquivo cliente50000alea.txt: 99.0 segundos.
+Tempo do 4º loop do arquivo cliente50000alea.txt: 95.0 segundos.
+Tempo do 5º loop do arquivo cliente50000alea.txt: 86.0 segundos.
+
+Tempo médio para o arquivo cliente50000alea.txt rodando 5 vezes, é: 91.8 segundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente50000inv.txt: 86.0 segundos.
+Tempo do 2º loop do arquivo cliente50000inv.txt: 86.0 segundos.
+Tempo do 3º loop do arquivo cliente50000inv.txt: 86.0 segundos.
+Tempo do 4º loop do arquivo cliente50000inv.txt: 87.0 segundos.
+Tempo do 5º loop do arquivo cliente50000inv.txt: 104.0 segundos.
+
+Tempo médio para o arquivo cliente50000inv.txt rodando 5 vezes, é: 89.8 segundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente50000ord.txt: 94.0 segundos.
+Tempo do 2º loop do arquivo cliente50000ord.txt: 105.0 segundos.
+Tempo do 3º loop do arquivo cliente50000ord.txt: 86.0 segundos.
+Tempo do 4º loop do arquivo cliente50000ord.txt: 88.0 segundos.
+Tempo do 5º loop do arquivo cliente50000ord.txt: 90.0 segundos.
+
+Tempo médio para o arquivo cliente50000ord.txt rodando 5 vezes, é: 92.6 segundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente5000alea.txt: 7.177445E8 Nanosegundos.
+Tempo do 2º loop do arquivo cliente5000alea.txt: 7.497533E8 Nanosegundos.
+Tempo do 3º loop do arquivo cliente5000alea.txt: 7.393153E8 Nanosegundos.
+Tempo do 4º loop do arquivo cliente5000alea.txt: 7.650061E8 Nanosegundos.
+Tempo do 5º loop do arquivo cliente5000alea.txt: 7.650432E8 Nanosegundos.
+
+Tempo médio para o arquivo cliente5000alea.txt rodando 5 vezes, é: 7.4737248E8 Nanosegundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente5000inv.txt: 7.599572E8 Nanosegundos.
+Tempo do 2º loop do arquivo cliente5000inv.txt: 7.529618E8 Nanosegundos.
+Tempo do 3º loop do arquivo cliente5000inv.txt: 7.12022E8 Nanosegundos.
+Tempo do 4º loop do arquivo cliente5000inv.txt: 7.233886E8 Nanosegundos.
+Tempo do 5º loop do arquivo cliente5000inv.txt: 7.498863E8 Nanosegundos.
+
+Tempo médio para o arquivo cliente5000inv.txt rodando 5 vezes, é: 7.3964318E8 Nanosegundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente5000ord.txt: 7.382311E8 Nanosegundos.
+Tempo do 2º loop do arquivo cliente5000ord.txt: 6.90774E8 Nanosegundos.
+Tempo do 3º loop do arquivo cliente5000ord.txt: 7.586808E8 Nanosegundos.
+Tempo do 4º loop do arquivo cliente5000ord.txt: 7.561267E8 Nanosegundos.
+Tempo do 5º loop do arquivo cliente5000ord.txt: 7.594715E8 Nanosegundos.
+
+Tempo médio para o arquivo cliente5000ord.txt rodando 5 vezes, é: 7.4065682E8 Nanosegundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente500alea.txt: 3.19993E7 Nanosegundos.
+Tempo do 2º loop do arquivo cliente500alea.txt: 3.10009E7 Nanosegundos.
+Tempo do 3º loop do arquivo cliente500alea.txt: 3.59986E7 Nanosegundos.
+Tempo do 4º loop do arquivo cliente500alea.txt: 3.50024E7 Nanosegundos.
+Tempo do 5º loop do arquivo cliente500alea.txt: 3.30033E7 Nanosegundos.
+
+Tempo médio para o arquivo cliente500alea.txt rodando 5 vezes, é: 3.34009E7 Nanosegundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente500inv.txt: 3.2E7 Nanosegundos.
+Tempo do 2º loop do arquivo cliente500inv.txt: 3.0996E7 Nanosegundos.
+Tempo do 3º loop do arquivo cliente500inv.txt: 1.84493E7 Nanosegundos.
+Tempo do 4º loop do arquivo cliente500inv.txt: 4.20908E7 Nanosegundos.
+Tempo do 5º loop do arquivo cliente500inv.txt: 3.00025E7 Nanosegundos.
+
+Tempo médio para o arquivo cliente500inv.txt rodando 5 vezes, é: 3.070772E7 Nanosegundos.
+--------------------------------------------------------------
+Tempo do 1º loop do arquivo cliente500ord.txt: 3.09971E7 Nanosegundos.
+Tempo do 2º loop do arquivo cliente500ord.txt: 3.0001E7 Nanosegundos.
+Tempo do 3º loop do arquivo cliente500ord.txt: 3.09987E7 Nanosegundos.
+Tempo do 4º loop do arquivo cliente500ord.txt: 3.00096E7 Nanosegundos.
+Tempo do 5º loop do arquivo cliente500ord.txt: 3.09895E7 Nanosegundos.
+
+Tempo médio para o arquivo cliente500ord.txt rodando 5 vezes, é: 3.059918E7 Nanosegundos.
+--------------------------------------------------------------
+
